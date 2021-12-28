@@ -23,9 +23,59 @@ Recently I've studied **Full stack developer (MERN)** graduated from <a href="ht
 But my tech career didn't start here... furthermore I learned
   * Digital transformation and industry 4.0  
   * Modern programming with Python  
-  * ...
+  * Scratch & Lua  
+  * CCNA: Introduction to Networking  
+  * CyberOps Associate
 
-And long time ago I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car:
+I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car:
+
+### 🛠️ Technical skills
+<!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
+
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-F1F1F2?style=?style=for-the-badge&logo=appveyor&logo=mongodb&logoColor=green)
+![ExpressJS](https://img.shields.io/badge/-Express-F1F1F2?style=?style=for-the-badge&logo=appveyor&logo=express&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
+![Node.JS](https://img.shields.io/badge/-Node.js-black?style=?style=for-the-badge&logo=appveyor&logo=node.js&logoColor=green)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Mui](https://img.shields.io/badge/-Mui-black?style=flat-square&logo=mui)  
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress) -->
+
+
+![MongoDB](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=MongoDB&color=4a6f73&logo=mongodb&style=flat-square)
+![ExpressJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=ExpressJS&color=F1F1F2&logo=express&logoColor=black&style=flat-square)
+![ReactJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=ReactJS&color=145da0&logo=react&style=flat-square)
+![NodeJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=NodeJS&color=4a6f73&logo=node.js&style=flat-square)  
+
+![JavaScript](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=JavaScript&color=fad02c&logo=javaScript&style=flat-square)
+![Python](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Python&color=145da0&logo=Python&style=flat-square)
+
+![HTML](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=HTML&color=F46246&logo=HTML5&style=flat-square)
+![Git](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Git&color=F41515&logo=Git&style=flat-square)  
+
+![CSS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=CSS&color=145da0&logo=CSS3&logoColor=orange&style=flat-square)
+![Bootstrap](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Bootstrap&color=49326B&logo=Bootstrap&style=flat-square)
+![Mui](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Mui&color=145da0&logo=Mui&style=flat-square)  
+
+![Wordpress](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Wordpress&color=145da0&logo=Wordpress&logoColor=blue&style=flat-square)
+
+### :mag: Looking for
+I'm interested in front-end development, back-end development & full-stack development.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
