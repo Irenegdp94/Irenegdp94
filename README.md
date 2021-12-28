@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+People visited my profile:
+
+![Visitor Count](https://profile-counter.glitch.me/{Irenegdp94}/count.svg)
+
+
 <!--
 **Irenegdp94/Irenegdp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
