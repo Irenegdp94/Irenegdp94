@@ -1,34 +1,13 @@
-### Hi there 👋 I'm Irene and here is my CV :point_down:
-
-
-  
-  
-  
-
-  ---
+### Hi there 👋 
+ <h1 align="center"> FULL STACK DEVELOPER </h1>  
+ 
  > *I studied Mechanical Engineering and even I worked on it but I changed my mind and now I want to be a programer*
-  
- <h1 align="center"> FULL STACK DEVELOPER </h1>
  
   <p align="center"> 
-    <a href="https://www.linkedin.com/in/irene-garciadeparedes-perez">
-      <img src= https://img.shields.io/static/v1?label=Linkedin&labelColor=333969&message=Irene&color=9cf&style=flat-square&logo=linkedin>
-    </a>
     <img src= https://img.shields.io/static/v1?label=Mail&labelColor=791237&message=irenegdp94@gmail.com&color=f41515&style=flat-square&logo=gmail>
     <img src= https://komarev.com/ghpvc/?username=Irenegdp94&color=ff69b4&style=flat-square>
   </p>
   
-### :mortar_board: Studies 
-Recently I've studied **Full stack developer (MERN)** graduated from <a href="https://letscoder.com">*Let's Coder*</a> on December 2021.
-But my tech career didn't start here... furthermore I learned
-  * Digital transformation and industry 4.0  
-  * Modern programming with Python  
-  * Scratch & Lua  
-  * CCNA: Introduction to Networking  
-  * CyberOps Associate
-
-I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car:
-
 ### 🛠️ Technical skills
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
 
