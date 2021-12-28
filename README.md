@@ -1,8 +1,6 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Irenegdp94&color=ff69b4&style=plastic)
 
-People visited my profile:
-
-![Visitor Count](https://profile-counter.glitch.me/{Irenegdp94}/count.svg)
 
 
 <!--
