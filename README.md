@@ -19,7 +19,19 @@
   </p>
   
 ### :mortar_board: Studies 
-Recently I've studied **Full stack developer (MERN)** graduated from <a href="https://letscoder.com">*Let's Coder*</a>
+Recently I've studied **Full stack developer (MERN)** graduated from <a href="https://letscoder.com">*Let's Coder*</a> on December 2021.
+But my tech career didn't start here... furthermore I learned
+  * Digital transformation and industry 4.0  
+  * Modern programming with Python  
+  * ...
+
+And long time ago I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car:
+
+
+
+
+
+
 
 
 
