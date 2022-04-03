@@ -1,7 +1,7 @@
 ### Hi there 👋 
  <h1 align="center"> FULL STACK DEVELOPER </h1>  
  
- > *I studied Mechanical Engineering and even I worked on it but I changed my mind and now I want to be a programer*
+ > *I studied Mechanical Engineering and even I worked on it but I changed my mind and now I want to be a programmer*
  
   <p align="center"> 
     <img src= https://img.shields.io/static/v1?label=Mail&labelColor=791237&message=irenegdp94@gmail.com&color=f41515&style=flat-square&logo=gmail>
